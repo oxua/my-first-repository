@@ -1,2 +1,3 @@
 # README #
-# my-first-repository
+
+First beggining git tutorial being done.
